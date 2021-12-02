@@ -2,7 +2,14 @@
 # see https://pyup.io/docs/configuration/ for all available options
 
 schedule: every month
-
+Update: all
+Search: True
+Pin: True
+Default Branch: main
+Branch pre-fix: pyup-
+Close PRs: True
+Label PRs: False
+Update hashes: True
 requirements:
   - Pipfile
   - Pipfile.lock
