@@ -3,3 +3,7 @@
 
 schedule: every month
 update: false
+
+requirements:
+  - Pipfile
+  - Pipfile.lock
